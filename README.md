@@ -18,4 +18,5 @@ I think we all already know this, but not including jQuery on your WordPress sit
 ## FAQ
 
 Q: "You're crazy! You should never remove jQuery from WordPress!"
+
 A: That's not really a question. 
