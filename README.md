@@ -9,7 +9,7 @@ Removes jQuery from your WordPress site with no explanation.
 1. [Download the latest release.](https://github.com/jonathanbell/remove-jquery-wordpress-plugin/archive/master.zip)
 1. Go to `/wp-admin/plugin-install.php` on your site and click the "Upload Plugin" button. 
 1. Click "Choose File" and select the `.zip` file from step one.
-1. Go to `/wp-admin/plugins.php` and activate the plugin. 
+1. Click "Install Now" and then "Activate Plugin".
 
 ## Important Note
 
