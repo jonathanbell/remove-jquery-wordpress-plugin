@@ -1,6 +1,6 @@
 # Remove jQuery Wordpress Plugin
 
-[![Tested on WordPress 4.8](https://img.shields.io/badge/wordpress-4.8%20tested-green.svg?style=flat-square)]()
+![Tested on WordPress 4.8](https://img.shields.io/badge/wordpress-4.8%20tested-green.svg?style=flat-square)
 
 Removes jQuery from your WordPress site with no explanation.
 
